@@ -1,0 +1,5 @@
+site,comparison_product,overall_agreement_percent,sidroforest_mixed_percent,product_mixed_percent,comparison_note
+Lake Khamra,GLC_FCS30,72.61,16.2,3.8,"Finer SiDroForest map aggregated by categorical majority to FCS30 support"
+Lake Khamra,CGLS-LC100,40.01,16.2,10.2,"Historical merged CGLS derivative reconstructed at nominal 100 m support"
+Yakutsk,GLC_FCS30,38.42,54.6,0.0,"Finer SiDroForest map aggregated by categorical majority to FCS30 support"
+Yakutsk,CGLS-LC100,9.38,54.7,0.0,"Compared on verified non-downsampled projected source grid (~76.29 m projected support)"

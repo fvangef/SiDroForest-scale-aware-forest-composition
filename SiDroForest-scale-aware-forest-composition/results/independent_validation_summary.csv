@@ -1,0 +1,3 @@
+reference_set,n_reference,n_classified,n_masked,coverage,abstention_rate,n_correct,conditional_accuracy,balanced_accuracy,macro_f1,cohen_kappa,note
+2021 independent field/drone polygons,12,9,3,0.7500,0.2500,7,0.7778,0.679,0.679,0.357,"Both reference classes occur among classified units"
+Independent SiDroForest/PANGAEA test locations,12,7,5,0.5833,0.4167,6,0.8571,,,,"Classified subset contains summergreen references only; all four evergreen references are masked"

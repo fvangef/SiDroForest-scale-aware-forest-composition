@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript and the relevant SiDroForest datasets."
+title: "SiDroForest scale-aware forest-composition analysis"
+type: software
+version: 1.0.0
+date-released: 2026-10-13
+authors:
+  - family-names: van Geffen
+    given-names: Femke
+  - family-names: Hänsch
+    given-names: Ronny
+  - family-names: Demir
+    given-names: Begüm
+  - family-names: Kruse
+    given-names: Stefan
+  - family-names: Herzschuh
+    given-names: Ulrike
+  - family-names: Heim
+    given-names: Birgit
+repository-code: "https://github.com/fvangef/SiDroForest-scale-aware-forest-composition"
+keywords:
+  - Sentinel-2
+  - boreal forest
+  - forest composition
+  - mixed forest
+  - geographic generalisation
+  - remote sensing
+  - Eastern Siberia
+  - SiDroForest
+preferred-citation:
+  type: article
+  title: "Geographic generalisation and scale-aware Sentinel-2 forest-composition mapping across selected sites in Eastern Siberia"
+  authors:
+    - family-names: van Geffen
+      given-names: Femke
+    - family-names: Hänsch
+      given-names: Ronny
+    - family-names: Demir
+      given-names: Begüm
+    - family-names: Kruse
+      given-names: Stefan
+    - family-names: Herzschuh
+      given-names: Ulrike
+    - family-names: Heim
+      given-names: Birgit
+  notes: "Manuscript under revision; add journal DOI after acceptance."
